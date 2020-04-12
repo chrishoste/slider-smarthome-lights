@@ -8,17 +8,18 @@ Design from [Dribbble](https://www.dribbble.com/). A [simple slider for smarthom
 
 ## My final implementation
 
-### Youtube ([Link](https://youtu.be/xXa8CetKSSM)) (Coming soon)
+### Youtube ([Link](https://youtu.be/gYcX8n1s9R0))
 <p align="center">
-  <a href="https://youtu.be/xXa8CetKSSM">
-    <img alt="youtube_thumbnail" src="https://img.youtube.com/vi/xXa8CetKSSM/0.jpg" width="300" />
+  <a href="https://youtu.be/gYcX8n1s9R0">
+    <img alt="youtube_thumbnail" src="https://img.youtube.com/vi/gYcX8n1s9R0/0.jpg" width="300" />
   </a>
 </p>
 
 ### Screenshots/Gif's
 
 <p align="center">
-  <img height="700" src="https://github.com/chrishoste/slider-smarthome-lights/blob/master/img/capture.gif">
+  <img width="300" src="https://github.com/chrishoste/slider-smarthome-lights/blob/master/img/screenshot.png">
+  <img width="300" src="https://github.com/chrishoste/slider-smarthome-lights/blob/master/img/capture.gif">
 </p>
 
 ## Features
